@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AC9568DE-0F27-4F7A-8B9E-B2F04E7C9D66}"
+	ProjectSection(SolutionItems) = preProject
+		Assignment1.html = Assignment1.html
+		Assignment2.html = Assignment2.html
+		Assignment3.html = Assignment3.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
